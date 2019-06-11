@@ -1,4 +1,4 @@
-# GitIssues
+# Podcast
 
 Project in React Native that plays playlist or podcast using a fake API
 
