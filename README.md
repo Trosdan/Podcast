@@ -29,5 +29,3 @@ Run the project
 or
 
 > react-native run-ios
-
-OBS: Google Maps Api Key is required
